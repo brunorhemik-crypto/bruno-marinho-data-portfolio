@@ -41,7 +41,7 @@ Criação de um Dashboard em Excel para consolidar informações de erros operac
 
 ## 🖼️ Dashboard
 
-*Imagem será adicionada após a conclusão do dashboard.*
+![Dashboard de Erros Operacionais](dashboard-erros-operacionais.png.jpeg)
 
 ---
 
