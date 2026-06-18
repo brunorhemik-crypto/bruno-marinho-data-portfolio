@@ -41,7 +41,7 @@ Desenvolvimento de um Dashboard em Power BI para consolidar os principais indica
 
 ## 🖼️ Dashboard
 
-![Dashboard Central Operacional](dashboard-executivo-market4u.jpeg.jpeg)
+![Painel de Controle Operacional Central](dashboard-central-operacional.png.png)
 
 ---
 
