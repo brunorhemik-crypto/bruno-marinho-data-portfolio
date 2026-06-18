@@ -1,33 +1,59 @@
 # 📊 Central Operacional Market4U
 
-## Objetivo
+## 🎯 Objetivo
 
-Desenvolver uma central operacional para monitoramento dos principais indicadores da operação, permitindo maior controle e tomada de decisão baseada em dados.
+Desenvolver uma central operacional para monitoramento dos principais indicadores da operação, permitindo maior controle, visibilidade e tomada de decisão baseada em dados.
 
-## Ferramentas Utilizadas
+---
+
+## 🚨 Problema
+
+As informações operacionais estavam distribuídas em diferentes planilhas e controles, dificultando o acompanhamento dos indicadores e a identificação de oportunidades de melhoria.
+
+---
+
+## ✅ Solução
+
+Desenvolvimento de um Dashboard em Power BI para consolidar os principais indicadores operacionais em uma única visão estratégica.
+
+---
+
+## 🛠️ Ferramentas Utilizadas
 
 - Power BI
 - Excel
 - Power Query
 - DAX
 
-## Principais KPIs
+---
+
+## 📈 Indicadores Monitorados
 
 - Total de PDXs Ativos
-- Valor Total de Furos
-- Média de Furos %
+- Valor Total de Furo
+- Média de Furo %
 - Inventários
 - Abastecimentos
 - Vendas
 - Performance Operacional
 
-## Principais Benefícios
+---
+
+## 🖼️ Dashboard
+
+![Dashboard Central Operacional](dashboard-executivo-market4u.jpeg.jpeg)
+
+---
+
+## 🎯 Benefícios
 
 - Centralização das informações
-- Acompanhamento em tempo real
-- Identificação de desvios operacionais
-- Apoio à gestão estratégica
+- Redução do tempo de análise
+- Maior visibilidade operacional
+- Apoio à tomada de decisão
 
-## Status
+---
 
-🚧 Em evolução contínua
+## 🚀 Status
+
+Projeto em evolução contínua.
